@@ -1,7 +1,7 @@
 Tecnologias usadas: 
-HTML 
-.CSS
-w3.CSS
+HTML;
+.CSS;
+w3.CSS.
 
 Explicação do Código CSS:
 
@@ -29,7 +29,7 @@ color: #444 !important;,
 .menu-logo { ... },
 Seleciona o Logo: Define o estilo para o elemento que tem a classe .menu-logo (a imagem do logo W3).
 
-height: 40px;,Altura: 
+height: 40px;,Altura:
 Define a altura da logo como 40 pixels.
 
 width: auto;,
